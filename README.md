@@ -2,6 +2,7 @@
 <h3 align="center">Web Developer · Modern Websites & Web Apps</h3>
 
 <p align="center">
+    <span style="color:#d1a038;"><b>YoungDeidel Webentwicklung</b></span><br/>
     🇩🇪 Webentwicklung für Unternehmen & Selbstständige<br/>
     🇬🇧 Web development für businesses & founders
 </p>
