@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏿, I' am Edilson</h1>
-<h3 align="center">Web Delevoper · Modern Websites & Web Apps</h3>
+<h3 align="center">Web Developer · Modern Websites & Web Apps</h3>
 
 <p align="center">
     🇩🇪 Webentwicklung für Unternehmen & Selbstständige<br/>
