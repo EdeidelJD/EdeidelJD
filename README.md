@@ -35,7 +35,7 @@ Perfect for small and medium-sized businesses looking for a strong digital prese
 ## 📍 Selected Projects | Ausgewählte Projekte
 
 ### 🌐 Business Website (SEO-first)
-🇩🇪 SEO-optimierte Unternehmenswebseite (Performance, Core Web Vitals)
+🇩🇪 SEO-optimierte Unternehmenswebseite (Performance, Core Web Vitals)<br/>
 🇬🇧 SEO-first business website (performance & Core Web Vitals)
 
 ---
@@ -58,7 +58,7 @@ Perfect for small and medium-sized businesses looking for a strong digital prese
 
 ## 📧 Contact
 
-🌐 https://youngdeidel.de
+🌐 https://youngdeidel.de<br/>
 📧 edilson@youngdeidel.de
 
 <p align="center">
